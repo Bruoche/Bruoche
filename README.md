@@ -5,7 +5,7 @@
 (https://www.uni-tlse3.fr/but-specilite-informatique)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,py,ruby,c,eclipse,vscode,github,gitlab,jenkins,discord,docker,ps,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,html,css,js,py,ruby,c,eclipse,vscode,github,gitlab,jenkins,docker,ps,blender)](https://skillicons.dev)
 
 
 
